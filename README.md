@@ -15,3 +15,7 @@ v. Then partitioned the 'Age' attribute into 6 different parts and valued 1,2,3,
 vi. I scaled the 'Fare' column into the range (0,1). 
 
 vii. Then I did a 10 fold cross validation over the training data frame for Logistic Regression, Support Vector Machine(Linear and Rbf kernel),K Nearest Neighbour, Decision Tree, Random Forest, Perceptron and Bayes Classifier and calculated their accuracy and observed that Support Vector Machine Rbf kernel function predicting most accurately 8. I predicted the 'Survived' attribute of the persons in the test data frame and then with the 'PassengerId' column I created the Predicted_Survived.csv file.
+
+
+Kaggle Code Link:
+https://www.kaggle.com/pratyayeechatterjee/code?scroll=true
